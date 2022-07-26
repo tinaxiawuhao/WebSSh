@@ -1,0 +1,1 @@
+GET localhost:8080/publishConfig?dataId=user&configInfo=helloworld
